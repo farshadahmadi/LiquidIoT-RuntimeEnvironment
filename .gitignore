@@ -1,0 +1,14 @@
+/uploads/
+/app/
+/node_modules/
+*~
+*.swp
+.DS_Store
+config.txt
+npm-debug.log
+nohup.out
+dm-config.txt
+backend-config.txt
+demo.log
+start.sh
+stop.sh
