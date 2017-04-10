@@ -31,3 +31,7 @@ This project is a nodejs application:
 ## Documentation
 
 You can find the latest API documentation in /Documents/ folder.
+
+## LICENSE
+
+This project is under BSD New Licesne.
